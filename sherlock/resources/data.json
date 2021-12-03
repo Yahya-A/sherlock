@@ -1731,8 +1731,8 @@
   "Twitter": {
     "errorMsg": "<title>Error | nitter</title>",
     "errorType": "message",
-    "url": "https://twitter.com/{}",
-    "urlMain": "https://twitter.com/",
+    "url": "https://mobile.twitter.com/{}",
+    "urlMain": "https://mobile.twitter.com/",
     "urlProbe": "https://nitter.net/{}",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"

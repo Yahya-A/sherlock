@@ -1,4 +1,5 @@
 ## List Of Supported Sites (321 Sites In Total!)
+
 1. [2Dimensions](https://2Dimensions.com/)
 1. [3dnews](http://forum.3dnews.ru/)
 1. [7Cups](https://www.7cups.com/)
@@ -224,7 +225,7 @@
 1. [Trello](https://trello.com/)
 1. [TryHackMe](https://tryhackme.com/)
 1. [Twitch](https://www.twitch.tv/)
-1. [Twitter](https://twitter.com/)
+1. [Twitter](https://mobile.twitter.com/)
 1. [Typeracer](https://typeracer.com)
 1. [Ultimate-Guitar](https://ultimate-guitar.com/)
 1. [Unsplash](https://unsplash.com/)
