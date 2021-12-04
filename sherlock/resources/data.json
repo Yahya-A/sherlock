@@ -1733,7 +1733,6 @@
     "errorType": "message",
     "url": "https://mobile.twitter.com/{}",
     "urlMain": "https://mobile.twitter.com/",
-    "urlProbe": "https://nitter.net/{}",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
